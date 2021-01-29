@@ -1,6 +1,6 @@
-# Sentiment-Analysis-IMDB-dataset
+# Sentiment-Analysis-IMDb-dataset
 
-Ongoing exploration of implementing Sentiment Analysis. 
+Ongoing exploration of implementing Sentiment Analysis on the IMDb dataset. 
 
 
 ## The Large Movie Review Dataset
